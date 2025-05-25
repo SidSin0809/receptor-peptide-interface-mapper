@@ -1,0 +1,3 @@
+# Core dependencies
+biopython>=1.83      # structural parsing (PDB / mmCIF) and NeighborSearch
+tqdm>=4.66           # neat progress bar for multi-file processing
